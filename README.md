@@ -1,1 +1,2 @@
-# Reacquiainting oneself with lovely JavaSript
+# javaBuzz
+Reacquiainting oneself with lovely JavaScript ...
