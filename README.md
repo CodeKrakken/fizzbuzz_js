@@ -1,1 +1,1 @@
-# cat-bank
+# Reacquiainting oneself with lovely JavaSript
